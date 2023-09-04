@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div{
+    background-image:linear-gradient(to left,rgb(236, 11, 198),rgb(163, 9, 240)) ;
+    width: 100%;
+}
+.profile-img{
+    width: 100px;
+    border-radius: 50%;
+}
+#contact{
+    background-image:linear-gradient(to left,rgb(236, 11, 198),rgb(163, 9, 240)) ;
+}
